@@ -1,0 +1,14 @@
+2023-05-01 20:54:29,292 root INFO This is the first step of custom exception handling
+2023-05-01 20:54:31,066 root INFO This is the second step of custom exception handling and in this step, program is going to take the value of number and i.e 21
+2023-05-01 20:54:31,066 root INFO This is the third step of custom exception handling and in this step, program is going to execute the for loop for printing the table of respective number
+2023-05-01 20:54:31,066 root INFO This is the forth step of custom exception handling and in this step, for loop in the program is going on and the number of executing the for loop is : 1
+2023-05-01 20:54:31,067 root INFO This is the forth step of custom exception handling and in this step, for loop in the program is going on and the number of executing the for loop is : 2
+2023-05-01 20:54:31,067 root INFO This is the forth step of custom exception handling and in this step, for loop in the program is going on and the number of executing the for loop is : 3
+2023-05-01 20:54:31,067 root INFO This is the forth step of custom exception handling and in this step, for loop in the program is going on and the number of executing the for loop is : 4
+2023-05-01 20:54:31,067 root INFO This is the forth step of custom exception handling and in this step, for loop in the program is going on and the number of executing the for loop is : 5
+2023-05-01 20:54:31,067 root INFO This is the forth step of custom exception handling and in this step, for loop in the program is going on and the number of executing the for loop is : 6
+2023-05-01 20:54:31,067 root INFO This is the forth step of custom exception handling and in this step, for loop in the program is going on and the number of executing the for loop is : 7
+2023-05-01 20:54:31,068 root INFO This is the forth step of custom exception handling and in this step, for loop in the program is going on and the number of executing the for loop is : 8
+2023-05-01 20:54:31,068 root INFO This is the forth step of custom exception handling and in this step, for loop in the program is going on and the number of executing the for loop is : 9
+2023-05-01 20:54:31,068 root INFO This is the forth step of custom exception handling and in this step, for loop in the program is going on and the number of executing the for loop is : 10
+2023-05-01 20:54:31,068 root INFO This is the final step of custom exception handling and in this step program is going to print the final statement of the program
